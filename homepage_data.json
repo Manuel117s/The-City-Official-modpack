@@ -1,16 +1,11 @@
 {
-  "heroTitle": "Temporada 2 Disponible",
-  "heroDescription": "Explora las nuevas mecánicas, descubre las zonas expandidas y únete a la comunidad en el servidor actualizado. Asegúrate de tener la última versión instalada.",
+  "heroTitle": "A new carepackage has dropped, and it contains a lot of new goodies",
+  "heroDescription": "Explore a new expanded arsenal with more guns that you´ll ever need and... wait, are those.... screaming skeletons?",
   "news": [
     {
-      "date": "2026-05-29T10:00:00Z",
-      "title": "Nuevo sistema de actualización implementado con éxito en WinUI 3.",
-      "discordLink": "https://discord.com/channels/123456789/987654321"
-    },
-    {
-      "date": "2026-05-20T15:30:00Z",
-      "title": "Se corrigieron los problemas de compatibilidad con FancyMenu en Forge 1.20.1.",
-      "discordLink": "https://discord.com/channels/123456789/987654321"
+      "date": "2026-05-31T10:00:00Z",
+      "title": "Version 1.3.0 released",
+      "discordLink": "https://discord.com/channels/1501444585908342784/1508261997605818509/1510766681541185568"
     }
   ]
 }
