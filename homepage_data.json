@@ -1,0 +1,20 @@
+{
+  "heroTitle": "Temporada 2 Disponible",
+  "heroDescription": "Explora las nuevas mecánicas, descubre las zonas expandidas y únete a la comunidad en el servidor actualizado. Asegúrate de tener la última versión instalada.",
+  "serverOnline": true,
+  "serverPlayers": "12/50",
+  "news": [
+    {
+      "date": "Hoy",
+      "title": "Nuevo sistema de actualización implementado con éxito en WinUI 3."
+    },
+    {
+      "date": "Hace 3 días",
+      "title": "Se corrigieron los problemas de compatibilidad con FancyMenu en Forge 1.20.1."
+    },
+    {
+      "date": "Hace 1 semana",
+      "title": "Apertura oficial del servidor."
+    }
+  ]
+}
